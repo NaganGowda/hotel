@@ -1,0 +1,36 @@
+.bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+  background-size: cover;
+  height: 100vh;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #000000e6;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 15px;
+}
+
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.para {
+  font-size: 15px;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #ffffff;
+  height: 45px;
+  width: 130px;
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 15px;
+}
